@@ -1,1 +1,0 @@
-{"filename": "builds/82f213cdd9ff3eecffde49dacbe46bf0b6dc64311dc3475ea9efc58b2ab8011c.zip", "runtime": "nodejs16.x", "artifacts_dir": "builds", "build_plan": [["zip", "modules/lambda/eu-central-1/lambda_src/update_course/index.js", null]]}
